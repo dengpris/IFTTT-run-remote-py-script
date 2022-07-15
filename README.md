@@ -1,6 +1,6 @@
 # IFTTT-run-remote-py-script
 This project uses IFTTT to run Python scripts remotely.
-
+![Screenshot of code](https://user-images.githubusercontent.com/61913136/179311581-4cbc6d3f-9da0-421e-a4a1-e2935142d57c.png)
 
 
 ## How it Works
